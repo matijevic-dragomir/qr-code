@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://github.com/dragi-ns/qr-code
-- Live Site URL: https://dragi-ns.github.io/qr-code
+- Solution URL: https://github.com/matijevic-dragomir/qr-code
+- Live Site URL: https://matijevic-dragomir.github.io/qr-code
 
 ## My process
 
@@ -34,4 +34,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [dragi-ns](https://github.com/dragi-ns)
+- Website - [matijevic-dragomir](https://github.com/matijevic-dragomir)
